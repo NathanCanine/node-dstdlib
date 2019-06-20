@@ -1,0 +1,4 @@
+List npm packages ordered by downloads
+Download packages
+Run complexity metrics on packages.
+Prompt administrator to review the package and mark it for ignore, reimplementation, or direct inclusion.
